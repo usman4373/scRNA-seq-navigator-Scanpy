@@ -1,4 +1,4 @@
-![cover]()
+![cover](images/00-coverpage.png)
 
 ![Python](https://img.shields.io/badge/Python-3.8%252B-blue) ![Scanpy](https://img.shields.io/badge/Scanpy-1.9%252B-orange) ![scVI](https://img.shields.io/badge/scVI-0.20%252B-red) [![CellTypist](https://img.shields.io/badge/CellTypist-cell%20annotation-orange?style=flat-square)](https://www.celltypist.org/) ![MIT](https://img.shields.io/badge/License-MIT-green)
 
@@ -205,6 +205,8 @@ When performing annotation with CellMarker, it is important to use tissue-specif
 - Differential Expression Results
     - Pseudobulk count matrices for DESeq2
     - Cell-level DGE results in CSV format
+ 
+![plots](images/02-plots.png)
 
 ## 📚 Citation
 - If you use this pipeline/workflow in your research, please cite:
